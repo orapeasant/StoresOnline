@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+googleCloudSqlEnabled=false
+localDevMySqlEnabled=false
+testDatabaseName=
+testDatabasePassword=
+testDatabaseUser=
+testInstanceName=
