@@ -1,0 +1,11 @@
+
+http://elizabetht.github.io/blog/2013/11/21/student-enrollment-using-hibernate-with-spring/
+
+mvn archetype:generate -DgroupId=com.gf.app.google -DartifactId=StoresOnline -DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false
+
+cd to project folder and run following to convert project to eclipse project
+
+mvn eclipse:eclipse -Dwtpversion=2.0
+
+
+
